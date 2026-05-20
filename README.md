@@ -1,6 +1,6 @@
-# Vertex AI Studio Frontend App with Node.js Backend
+# Quiero Ser Mexicano(Mexican Citizenship Mock Test)
 
-This repository contains a frontend and a Node.js backend, designed to run together.
+This repository contains a Google Cloud App Mexican Citizenship mock test. It has frontend and a Node.js backend, designed to run together.
 The backend acts as a proxy, handling Google Cloud API calls.
 
 This project is intended for demonstration and prototyping purposes only.
